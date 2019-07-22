@@ -10,4 +10,4 @@ I am currently a Ph.D student in Biostatistics at <a href="https://www.unlv.edu/
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/open?id=1EfCJ3-EHvSGfTVWNSfHndnRGlydn-aji" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/preview?id=1EfCJ3-EHvSGfTVWNSfHndnRGlydn-aji" width="100%" height="900"></iframe>
