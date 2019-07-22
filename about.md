@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p>
-I am currently a Sr. Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a>. I consider myself as a full-stack developer and equally excited working on both ends. I like complex problem sovling and coming up with an efficient solution.I am passionate about learning new technologies and implementing them. 
+I am currently a Ph.D student in Biostatistics at <a href="https://www.unlv.edu/" target="_blank">University of Nevada, Las Vegas</a>. I'm working as a graduate research assistant at <a href="https://www.unlv.edu/nipm" target="_blank">Nevada Institute of Personalized Medicine</a> in <a href="https://www.unlv.edu/people/qing-wu" target="_blank">Dr. Qing Wu</a>'s Lab. I'm passionate about the personalized medicine, machine learning, deep learning and statistics!. 
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
